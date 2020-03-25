@@ -1,0 +1,25 @@
+[
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Gauntlet",
+    "description": "All-in-one plugin for the Gauntlet",
+    "id": "gauntlet-plugin",
+    "releases": [
+      {
+        "date": "2020-02-08",
+        "sha512sum": "9BBC5A5A9F1689BBACD918B93386A71A828AC01B3924A56D6719BA23A5EFF2CB6C3F55BA03487B54F9DF52EB8A14BDC2B0F51958B4E73BF27DA871D7E4252FAC",
+        "version": "0.0.2",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/gauntlet-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-18",
+        "sha512sum": "BDB1162F4F02B8F2DA77786830E60ACE85821C190D31ED8A84DA53B938061469A1A718530625DE98E6AFA58221F5AF98B42A9CFF87E2F6FE9E8531A2975BEA95",
+        "version": "0.0.3",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/gauntlet-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  }
+]
