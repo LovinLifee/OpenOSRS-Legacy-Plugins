@@ -21,5 +21,210 @@
         "requires": "0.0.1"
       }
     ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Alchemical Hydra",
+    "description": "Show what to pray against hydra",
+    "id": "alchemicalhydra-plugin",
+    "releases": [
+      {
+        "date": "2020-02-08",
+        "sha512sum": "496528B782ABB24ECD03E1972F54F46AC493305C62CA92E2CD57F743A8BCF8EC179258F347983869B1C2D5D6D3F75853430D531645D93962CBA68111626BB4A6",
+        "version": "0.0.2",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-09",
+        "sha512sum": "B55A87BEFA895A9085C4B252B8ACE87C833D94B524080C7F68CAF398D0DB28EBECDC5317773833B8F47C011F952B85D13F2BD96825ED734239D81EC41A6FAE65",
+        "version": "0.0.3",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-18",
+        "sha512sum": "31F1DA51208FE8051F8FA94F13252CD82545608E3FFD07EA7620E9D7BF3E0ACAD4A74B801C5B5E5EE7F6766450C51D206A941AF5625818431894F3E22AB0A876",
+        "version": "0.0.4",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-21",
+        "sha512sum": "38B27CC7854034A25980589595E2502E8E1794501D2B58A70BDC2AE83716140AA0B5DA5163C9AA46674A373B43965D58CD1CBB53FD70340B86D47832E17DE813",
+        "version": "0.0.5",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "AoE Warnings",
+    "description": "Shows the final destination for AoE Attack projectiles",
+    "id": "aoewarnings-plugin",
+    "releases": [
+      {
+        "date": "2020-02-08",
+        "sha512sum": "666DA0381BE48D8A1B3993F18E92493121B0034BF2A346AAE098FC902937C5D0AA193C411F1983ACDB0EB45F30607A7B1C085C24D517BD7E28A83914E9B0546E",
+        "version": "0.0.2",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/aoewarnings-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-18",
+        "sha512sum": "DAF05C3E27C28BF80AD632CD20996079F52E41AE27D8D1827489A35147C45A28F47795154E39B0CE199CC8AF0CACD464B54920477C91BE8F28BA1BA9C3983BAC",
+        "version": "0.0.3",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/aoewarnings-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Cerberus",
+    "description": "Show Cerberus' attacks and what to pray against the summoned souls",
+    "id": "cerberus-plugin",
+    "releases": [
+      {
+        "date": "2020-02-08",
+        "sha512sum": "30769F9220D3AF301109CE6983E65C2A1C3CC84CF8A4E840BE7B87E2194FB913B4217A7FA7EDDE4323F8F2AEDC6D67EFB0B4052F623E962902A3AD888F4660F6",
+        "version": "0.0.2",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/cerberus-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-15",
+        "sha512sum": "853AF080B203DB20E13BEAA2809200D69CD4E0089B1EDA09B4725260254358DC4FD06C78A1051F3DCE8FB5E75458B483640BA12EDB9300906D3EB274CF9744D7",
+        "version": "0.0.3",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/cerberus-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-17",
+        "sha512sum": "C4C12BD9D39AA4CA4BD0CD4CB2B0C5FE4AB1FDBE3384D2410B99616DEA1BAE3BFF291B8535C89AB7CC1AB6EEC560AD6B80C508889B4CBC7CA61607150CDE5930",
+        "version": "0.0.5",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/cerberus-0.0.5.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-21",
+        "sha512sum": "7576AEBB3BD955A15380769C08BDD16CE2627B5FAFAC808645F97A9B7374852F7EA1044F7848A9CF7B6368724E86100778FFCAD589583A1865214247B03B33ED",
+        "version": "0.0.6",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/cerberus-0.0.6.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "CoX Helper",
+    "description": "All-in-one plugin for Chambers of Xeric",
+    "id": "coxhelper-plugin",
+    "releases": [
+      {
+        "date": "2020-02-08",
+        "sha512sum": "039223AD4379851B9D6F3FE5F1981E814E9ED25B26398290B0332B11FD6E8C87F3793EF750A88297BC67AF8F374394EF57C4DDAC1C71D660E788CBEC1D099165",
+        "version": "0.0.3",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/coxhelper-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-18",
+        "sha512sum": "4CCA5BF554A9A6CB3D085CA28FDDF320C1E8CFFA97E165CCBFEF827FA7798FBBB81FB69E5E32F65546E14F8E908D32CD1458A42635F67B2A0A4CA5345CAFA922",
+        "version": "0.0.4",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/coxhelper-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Demonic Gorillas",
+    "description": "Count demonic gorilla attacks and display their next possible attack styles",
+    "id": "demonicgorillas-plugin",
+    "releases": [
+      {
+        "date": "2020-02-08",
+        "sha512sum": "050CAB44277736A99F435B17F3FF92F689AF0F6612268EB44D24A21CC427D72CCA70E8D7115647936C95757C6261583A0D4AA292BCB011CAD0DDA141EBBE14E1",
+        "version": "0.0.2",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/demonicgorilla-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Zulrah",
+    "description": "Shows tiles on where to stand during the phases and what prayer to use",
+    "id": "zulrah-plugin",
+    "releases": [
+      {
+        "date": "2020-02-08",
+        "sha512sum": "03831D8A1DE56E3B926EFCA422AFE52ABAD7F420E4C7EFD2C492CF1DA7A7B3E886D29E2BC04BFE4D7374CF02D510886B6F3C37CC70F26ACC4BAB05AE283D9A48",
+        "version": "0.0.2",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/zulrah-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-18",
+        "sha512sum": "D90494098A5AF43189778C7A7A4975CD739BB8106EBAE7381BCA8C05B1ED985B141CBD510D62AD489260D22953CD85F5B2EC894D8CC98D384A1A800978D59CBA",
+        "version": "0.0.3",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/zulrah-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-21",
+        "sha512sum": "8B6ECA7F46679E353409C2664C39167DFB58C0755213DED6F59A91145878E4346E8AF3EFFE36FB48F4673377D6E3D4BA9D6E27CC59DC7AF9906D9D7F7AB53C60",
+        "version": "0.0.4",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/zulrah-0.0.4.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "Inferno",
+    "description": "Inferno helper",
+    "id": "inferno-plugin",
+    "releases": [
+      {
+        "date": "2020-02-08",
+        "sha512sum": "86C20E6D5F156FD27C4B48003CB2393E2D8FEACA03DEE8D048715EFE81820F6D16389794EF2CC25D12C083E2646236B8A2F2B4D2ABD33568E9C44B5010C64EFE",
+        "version": "0.0.2",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/inferno-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "OpenOSRS",
+    "name": "AoE Warnings",
+    "description": "Shows the final destination for AoE Attack projectiles",
+    "id": "aoewarnings-plugin",
+    "releases": [
+      {
+        "date": "2020-02-08",
+        "sha512sum": "666DA0381BE48D8A1B3993F18E92493121B0034BF2A346AAE098FC902937C5D0AA193C411F1983ACDB0EB45F30607A7B1C085C24D517BD7E28A83914E9B0546E",
+        "version": "0.0.2",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/aoewarnings-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-02-18",
+        "sha512sum": "DAF05C3E27C28BF80AD632CD20996079F52E41AE27D8D1827489A35147C45A28F47795154E39B0CE199CC8AF0CACD464B54920477C91BE8F28BA1BA9C3983BAC",
+        "version": "0.0.3",
+        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/aoewarnings-0.0.3.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
   }
 ]
